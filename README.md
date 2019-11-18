@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A Probot App is very usefull to new member of Github.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Build Github API
 
 ## Getting started
 
